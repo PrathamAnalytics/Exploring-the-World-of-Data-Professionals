@@ -1,4 +1,4 @@
-# Data Professional Survey Analysis
+# Project : Data Professional Survey Analysis
 ![Project Overview Graphic](https://github.com/PrathamAnalytics/Data-Professional-Survey-Power-BI-Project/blob/main/Image.png?raw=true)  
 ## Background and Overview
 This project analyzes survey responses from data professionals to uncover patterns and trends within the field. Our goal is to provide actionable insights to support recruitment, skill development, and strategic planning. **Understanding these trends enables data-driven organizations to optimize their recruitment and training investments.**
